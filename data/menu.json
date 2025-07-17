@@ -1,9 +1,10 @@
 {
-  "type": "content",
+  "type": "menu",
+  "title": "Anime Menu",
   "items": [
     {
-      "title": "Anime Channels",
-      "action": "m3u:https://iptv-org.github.io/iptv/categories/animation.m3u",
+      "title": "Anime Live Channel",
+      "action": "video:https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Anime_logo.png"
     }
   ]
