@@ -1,6 +1,10 @@
 {
-  "startmenu": "data/menu.json",
-  "name": "GitHub Pages Example",
-  "version": "1.0.2",
-  "parameter": "menu:https://rilindi101.github.io/msx/start.json"
+  "type": "menu",
+  "title": "Test Video",
+  "items": [
+    {
+      "title": "Test Bunny",
+      "action": "video:https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
 }
