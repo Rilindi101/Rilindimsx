@@ -1,10 +1,5 @@
 
-  
-
-
-
 {
-  "startmenu": "data/menu.json"
     "name": "GitHub Pages Example",
     "version": "1.0.2",
     "parameter": "menu:https://rilindi101.github.io/msx/start.json"
