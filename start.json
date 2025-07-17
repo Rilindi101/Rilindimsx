@@ -1,4 +1,5 @@
 {
+  "parameter": "menu:https://rilindi101.github.io/msx/start.json"
   "type": "menu",
   "title": "Test Video",
   "items": [
